@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/MadeByShedrack/tests"
+	"github.com/MadeByShedrack/functions"
 )
 
 func main() {
@@ -11,5 +11,9 @@ func main() {
 	// collections.Slices()
 	// standards.StandardLibrary()
 	// standards.Sorts()
-	tests.EmailTest()
+	// tests.EmailTest()
+	// loops.Loops()
+	// conditionals.Conditionals()
+	// functions.Functions()
+	functions.MultipleFunc()
 }
