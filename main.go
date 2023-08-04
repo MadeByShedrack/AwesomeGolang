@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/MadeByShedrack/memory"
+	"github.com/MadeByShedrack/interfaces"
 )
 
 func main() {
@@ -18,5 +18,6 @@ func main() {
 	// functions.MultipleFunc()
 	// maps.MapFunc()
 	// memory.GoMemory()
-	memory.Pointers()
+	// memory.Pointers()
+	interfaces.MyInterfaces()
 }
